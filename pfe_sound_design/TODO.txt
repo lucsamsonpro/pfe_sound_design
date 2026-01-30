@@ -1,0 +1,3 @@
+enemy_damage_shot
+- gore : ajouter wet
+- punch : +dry -wet
