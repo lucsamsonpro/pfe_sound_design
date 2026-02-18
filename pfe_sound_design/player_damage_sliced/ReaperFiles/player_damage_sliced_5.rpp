@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.79/win64" 1771419267
+<REAPER_PROJECT 0.1 "6.79/win64" 1771420094
   <NOTES 0 2
   >
   RIPPLE 0
@@ -30,8 +30,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE ""
-  RENDER_PATTERN enemy_damage_sliced_5
+  RENDER_FILE "C:\Users\iut2023\Desktop\LS_PFE_SD\pfe_sound_design\pfe_sound_design\player_damage_sliced\ReaperFiles\player_damage_sliced_5.wav"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
